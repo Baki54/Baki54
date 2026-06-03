@@ -223,4 +223,6 @@ If your goal is not only to train models, but also to understand them, then this
 
 <details>
 <summary><b>series:2 ->Viruses and Malware</b></summary>
+  
+## I will upload all tyoes of viruses and malware codes with basic python to understand how these works. this series is only for educational perpes only.
 </details>
