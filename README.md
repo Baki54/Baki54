@@ -1,4 +1,6 @@
-<details><b>series:1 -> mechine learning algorithms with pure mathematics</b>
+<details>
+<summary><b>series:1 -> mechine learning algorithms with pure mathematics</b></summary>
+  
 <details>
 <summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
   
