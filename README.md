@@ -220,3 +220,7 @@ If your goal is not only to train models, but also to understand them, then this
 
 ## Don't learn Machine Learning as a library. Learn it as mathematics.
 </details>
+
+<details>
+<summary><b>series:2 ->Viruses and Malware</b></summary>
+</details>
