@@ -1,4 +1,4 @@
-<details>
+<details name="language">
 <summary><b>series:1 -> mechine learning algorithms with pure mathematics</b></summary>
   
 <details>
@@ -100,7 +100,6 @@ Prediction পাওয়া যায়।
 <summary><b>  English version</b></summary>
 
 </details>
-
 
 ## Imagine someone gives you a dataset and asks:
 
@@ -221,7 +220,7 @@ If your goal is not only to train models, but also to understand them, then this
 ## Don't learn Machine Learning as a library. Learn it as mathematics.
 </details>
 
-<details>
+<details name="language">
 <summary><b>series:2 ->Viruses and Malware</b></summary>
   
 ## I will upload all types of viruses and malware's code with basic python to understand how these works. this series is only for educational perpes only.
