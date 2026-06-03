@@ -1,4 +1,4 @@
-
+<details><b>series:1 -> mechine learning algorithms with pure mathematics</b>
 <details>
 <summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
   
@@ -217,3 +217,4 @@ If your goal is not only to train models, but also to understand them, then this
 
 
 ## Don't learn Machine Learning as a library. Learn it as mathematics.
+</details>
