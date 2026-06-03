@@ -1,7 +1,7 @@
 <details name="language">
 <summary><b>series:1 -> mechine learning algorithms with pure mathematics</b></summary>
   
-<details>
+<details name="mechine">
 <summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
   
 ## ধরুন, আপনার সামনে একটি Dataset রাখা হলো।
@@ -97,9 +97,10 @@ Prediction পাওয়া যায়।
 
 ---
 
-<summary><b>  English version</b></summary>
-
 </details>
+
+<details name="mechine" open>
+<summary><b>English</b></summary>
 
 ## Imagine someone gives you a dataset and asks:
 
@@ -218,6 +219,7 @@ If your goal is not only to train models, but also to understand them, then this
 
 
 ## Don't learn Machine Learning as a library. Learn it as mathematics.
+</details>
 </details>
 
 <details name="language">
