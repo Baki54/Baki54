@@ -2,7 +2,7 @@
 <summary><b>series:1 -> mechine learning algorithms with pure mathematics</b></summary>
   
 <details name="mechine">
-<summary><b>🇧🇩 বাংলা সংস্করণ</b></summary>
+<summary><b>↳🇧🇩 বাংলা সংস্করণ</b></summary>
   
 ## ধরুন, আপনার সামনে একটি Dataset রাখা হলো।
 
@@ -100,7 +100,7 @@ Prediction পাওয়া যায়।
 </details>
 
 <details name="mechine" open>
-<summary><b>English</b></summary>
+<summary><b>↳English</b></summary>
 
 ## Imagine someone gives you a dataset and asks:
 
